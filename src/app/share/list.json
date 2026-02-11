@@ -176,5 +176,67 @@
 			"学习"
 		],
 		"stars": 3
+	},
+	{
+		"name": "爱给网",
+		"url": "https://www.aigei.com/",
+		"logo": "https://www.aigei.com/favicon.ico",
+		"description": "免费的音效配乐、3D 模型、视频素材下载站。做视频剪辑或游戏开发时找素材，这里资源很丰富，省去到处搜索的麻烦。",
+		"tags": [
+			"素材",
+			"音乐"
+		],
+		"stars": 3
+	},
+	{
+		"name": "FlexClip",
+		"url": "https://www.flexclip.com/cn/template/",
+		"logo": "https://www.flexclip.com/favicon.ico",
+		"description": "在线视频编辑工具，提供大量视频模板，拖拽即可制作。适合快速做宣传视频、Vlog 片头等，对非专业用户很友好。",
+		"tags": [
+			"设计",
+			"工具"
+		],
+		"stars": 3
+	},
+	{
+		"name": "工具猫",
+		"url": "https://www.toolscat.com/dev/data-generator",
+		"logo": "https://www.toolscat.com/favicon.ico",
+		"description": "批量生成模拟数据的在线工具，支持姓名、手机号、身份证、邮箱等多种类型。前端开发造测试数据时非常实用。",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
+	},
+	{
+		"name": "SO JSON HTTP 测试",
+		"url": "https://www.sojson.com/httpRequest/",
+		"logo": "https://www.sojson.com/favicon.ico",
+		"description": "在线 HTTP 接口测试工具，支持 GET/POST 等多种请求方式。不想开 Postman 时的轻量替代，打开浏览器就能用。",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
+	},
+	{
+		"name": "Parsevideo",
+		"url": "https://www.parsevideo.com/",
+		"logo": "https://www.parsevideo.com/favicon.ico",
+		"description": "免费在线视频解析下载网站，支持多个平台的视频链接解析和无水印下载。界面简洁，无需注册即可使用。",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
+	},
+	{
+		"name": "摸瓜",
+		"url": "https://mogua.co/",
+		"logo": "https://mogua.co/favicon.ico",
+		"description": "免费 APK 反编译分析工具，可以查诈骗 APP、检测病毒 APP。对移动端安全感兴趣的开发者值得收藏。",
+		"tags": [
+			"工具"
+		],
+		"stars": 3
 	}
 ]
